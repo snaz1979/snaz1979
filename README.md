@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snaz1979
 - 👀 I’m interested in power platform, dynamics 365 and Azure
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Azure, Python, DevOps
 - 📫 How to reach me ... snaz@sarfaraznaz.com
 
 <!---
